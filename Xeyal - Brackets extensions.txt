@@ -1,0 +1,20 @@
+1.	Autosave every edit!
+2.	Brackets Color Palette
+3.	Brackets Font
+4.	Brackets Git
+5.	Brackets Icons
+6.	Emmeta
+7.	Everyscrub
+8.	Extract for Brackets (Preview)
+9.	HTML Skeleton
+10.	HTML Templates
+11.	Indent Guides
+12.	Minimap
+13.	Overscroll
+14.	QuickFormTool
+15.	Response for Brackets
+16.	Right click
+17.	Special Html Characters
+18.	Themes for Brackets
+19.	Vimderbar
+20.	Zoom wheel

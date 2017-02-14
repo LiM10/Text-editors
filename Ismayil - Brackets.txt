@@ -1,0 +1,94 @@
+Brackets shortcuts
+
+Workspace
+Ctrl++ Increase Font Size
+Ctrl+- Decrease Font Size
+Ctrl+0 Return to Default
+Ctrl+Shift+H Hide/Show the Sidebar
+Ctrl+Alt+P Live Preview
+Ctrl+Shift+C Live Preview Highlight
+From menu Turn Line Numbers on/off
+From menu Turn Word Wrap on/off
+Opening Closing/Files
+Ctrl+Shift+O Quick Open
+Ctrl+W Close Current File
+Ctrl+Shift+W Close All Files
+Ctrl+O Open a File
+Ctrl+N New File
+Ctrl+Alt+R Switch Project
+F2Rename current file
+Writing/Editing Code
+Ctrl+X Delete/Cut line/selection
+Ctrl+D Duplicate line/selection
+Ctrl+C Copy line/selection
+Ctrl+V Paste line/selection
+Ctrl+/ Single line comment
+Ctrl+Shift+/ Block comment
+Ctrl+Enter Add a new line after the current line
+Ctrl+Shift+Enter Add a new line before the current line
+Cursor Placement
+› Move to the left
+‹ Move to the right
+^ Move up one line
+v Move down one line
+Ctrl+› Move to next word
+Ctrl+‹ Move to previous word
+Alt+› Move to the end of line
+Alt+‹ Move to the beginning of the line
+Ctrl+Home Move to the beginning of file
+Ctrl+End Move to the end of file
+Ctrl+^ Scroll up
+Ctrl+v Scroll down
+Selecting Code
+Ctrl+L Select the current line
+Ctrl+B Select the current word
+Ctrl+A Select all the text
+Shift+› Select the next character
+Shift+‹ Select the previous character
+Shift+^ Select the previous line
+Shift+v Select the next line
+Shift+Alt+› Select next word
+Shift+Alt+‹ Select previous word
+Shift+Cmd+› Select to the end of line
+Shift+Cmd+‹ Select to the beginning of line
+Shift+Cmd+Home Select to the beginning of file
+Shift+Cmd+End Select to the end of file
+Moving Code
+Ctrl+Shift+^ Move current line/selection up
+Ctrl+Shift+v Move current line/selection down
+Ctrl+] Indent Right
+Ctrl+[ Indent Left
+Tab Indent Right (when lines are selected)
+Shift+Tab Indent Left
+Quick Edit
+Ctrl+E Open/Close Quick Edit
+Alt+v Go to next rule in list
+Alt+^ Go to previous rule in list
+Esc Close Quick Edit
+Ctrl+N Create a New Rule
+Find & Replace
+Ctrl+F Find
+F3 Find Next
+Shift+F3 Find Previous
+Ctrl+Shift+F Find in Files
+Ctrl+H Replace
+Ctrl+Shift+H Replace in Files
+Multiple Cursors
+Ctrl+B Add next match to your selection
+Ctrl+Shift+B Skip and add next match
+Ctrl+U Undo last selection change
+Ctrl+Shift+U Redo last selection change
+Alt+F3 Find all and select
+Ctrl+Click Add to your selection
+Alt+Click+Drag Select a column
+Alt+Shift+^ Add Cursor to Previous Line
+Alt+Shift+v Add Cursor to Next Line
+Ctrl+Alt+L Split Selection Into Lines
+Esc Switch to a Single Selection
+Navigation (Go To)
+Ctrl+E Quick Edit
+Ctrl+J Jump to Definition
+Ctrl+Shift+O Quick Open
+Ctrl+T Go to Definition
+Ctrl+G Go to Line
+Ctrl+K Quick Docs
